@@ -4,13 +4,13 @@ import re
 
 # Firebase configuration
 firebaseConfig = {
-    'apiKey': "AIzaSyDHtYBT3400_Zodmaem4FyPqV1LHf16uV8",
-    'authDomain': "khdima-8d3ea.firebaseapp.com",
-    'databaseURL': "https://khdima-8d3ea-default-rtdb.firebaseio.com",
-    'projectId': "khdima-8d3ea",
-    'storageBucket': "khdima-8d3ea.appspot.com",
-    'messagingSenderId': "673462814045",
-    'appId': "G-Z4F6NKT2PC"
+    'apiKey': "",
+    'authDomain': "",
+    'databaseURL': "",
+    'projectId': "",
+    'storageBucket': "",
+    'messagingSenderId': "",
+    'appId': ""
 }
 
 firebase = pyrebase.initialize_app(firebaseConfig)
