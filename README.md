@@ -21,7 +21,7 @@ This is a Flet-based application for user authentication and job posting managem
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/flet-authentication-app.git
+    git clone https://github.com/khalil135711/flet-authentication-app.git
     ```
 2. Navigate to the project directory:
     ```sh
